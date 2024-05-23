@@ -81,3 +81,20 @@ border-radius: 4px;
   height: 70px;
   color: #999;
 }
+.photo-btn{
+  
+  width: 91px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: chartreuse;
+  color: aliceblue;
+  border: none;
+  padding: 8px 16px;
+  display: flex;
+  align-items: center;
+  margin: auto;
+  
+}
+.is-hidden-btn {
+  display: none;
+}
